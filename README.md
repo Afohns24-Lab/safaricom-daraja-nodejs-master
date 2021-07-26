@@ -277,7 +277,7 @@ Best way to install this middleware is to clone it from Github
 **To clone/download the boilerplate**
 
 ```bash
-$ git clone https://github.com/neshoj/safaricom-daraja-nodejs.git
+$ git clone https://github.com/Afohns24-Lab/safaricom-daraja-nodejs.git
 ```
 
 **After cloning, get into your cloned safaricom-daraja-nodejs's directory/folder**
